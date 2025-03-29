@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @mprasad23
-- 👀 I’m interested in Data Analysis, Machine Learning, and AI applications.
-- 🌱 I’m currently learning advanced data visualization techniques and predictive modeling.
-- 💞️ I’m looking to collaborate on data-driven projects that enhance business strategies and performance.
 - 📫 How to reach me: mprasad1891@gmail.com | https://www.linkedin.com/in/mahadevaprasad-k-m-56956725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I once analyzed data from a local sports team to help improve their game strategy!
